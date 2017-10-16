@@ -163,7 +163,7 @@ public class Applets {
 		int width = 200;// 二维码图片的宽度
 		int height = 200;// 二维码图片的高度
 		BitMatrix bitMatrix;
-						String format = "jpg";// 二维码格式
+						String format = "jpg";// 二维码格 式
 				
 						String phone=request.getParameter("phone");
 						number = phone.substring(3);
